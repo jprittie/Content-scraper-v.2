@@ -1,0 +1,21 @@
+{
+  "name": "project_6",
+  "version": "1.0.0",
+  "description": "Content scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "lint": "eslint **.js"
+  },
+  "author": "jprittie",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "json-2-csv": "^2.0.22",
+    "moment": "^2.16.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.2.2",
+    "eslint-config-google": "^0.6.0"
+  }
+}
